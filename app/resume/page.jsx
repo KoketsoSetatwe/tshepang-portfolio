@@ -25,7 +25,7 @@ const about = {
         },
         {
             fieldName: "GIS experience",
-            fieldvalue: "5+ Years"
+            fieldvalue: "1 Year"
         },
         {
             fieldName: "Dev experience",
@@ -59,8 +59,8 @@ const experience = {
     items: [
         {
             company: "Woolpert Africa",
-            position: "Geo-Tech III",
-            duration: "2020 - Present"
+            position: "Geospatial Developer",
+            duration: "2023 - (03 - 09)"
         },
         {
             company: "Information Decision Systems",
